@@ -1,6 +1,6 @@
 body{
   background: rgb(12, 13, 13);
-  background: linear-gradient(90deg, rgb(141, 99, 190) 0%, rgb(182, 121, 162) 43%, rgb(235, 109, 158) 100%);
+  background: linear-gradient(90deg, rgb(242, 238, 153) 0%, rgb(155, 149, 43) 43%, rgb(81, 77, 4) 100%);
 }
 
 h1, h2, h3, h4, h5, p, span, strike{
