@@ -197,6 +197,7 @@ class App extends React.Component {
 
                                     <div >
                                       <strike>{task.title}</strike>
+
                                       
 
 
